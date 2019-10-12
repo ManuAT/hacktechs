@@ -1,0 +1,50 @@
+[
+  {
+    "id": "048ff4b6-306a-499d-bc8d-1ee1d4192101",
+    "data": [
+      {
+        "text": "what is the insurance time period for abc insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db02a084-3602-4aca-9d12-9ad6a7127591",
+    "data": [
+      {
+        "text": "insurance time period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4cdbccc-f81f-48d9-9149-e58b569974a3",
+    "data": [
+      {
+        "text": "What is the time period for ABC Health Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62446156-0b6e-4a78-b176-072a1813d39e",
+    "data": [
+      {
+        "text": "What is the time period for ABC Vehicle Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

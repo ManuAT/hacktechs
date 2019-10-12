@@ -1,0 +1,52 @@
+{
+  "id": "8481309e-76e9-4688-aa1e-a7943e018dd7",
+  "name": "ABC Vehicle Insurance Details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "image": {
+            "url": "https://www.mintwise.com/blog/wp-content/uploads/2018/01/Car-Insurance.jpg",
+            "accessibilityText": "Vehicle insurance"
+          },
+          "buttons": [
+            {
+              "title": "More details..",
+              "openUrlAction": {
+                "url": "https://abcbot.herokuapp.com/s_1.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Click below to get the details about ABC vehicle insurance"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

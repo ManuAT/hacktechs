@@ -1,0 +1,134 @@
+[
+  {
+    "id": "332a3ea7-ce5e-480b-9695-3664e5d59649",
+    "data": [
+      {
+        "text": "my details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71d32f7b-bd9b-4749-9b50-d5b2bd08bede",
+    "data": [
+      {
+        "text": "view my details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5f2e0a2-d9f4-4df9-8eb4-7a64ba9f22e0",
+    "data": [
+      {
+        "text": "view my policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c761a8bc-8199-436b-8bfd-f35b906724de",
+    "data": [
+      {
+        "text": "forgot password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7557df9f-328c-4c1a-ab81-3f26c9808efd",
+    "data": [
+      {
+        "text": "forgot username",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "304e47bd-a51a-4b7a-8197-ccbdf9f8b8a8",
+    "data": [
+      {
+        "text": "renew policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31a59fe7-c774-4c2f-8975-d00bb9b34047",
+    "data": [
+      {
+        "text": "how can i renew my policy ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d68370c-3852-492d-b685-e35df0a093c0",
+    "data": [
+      {
+        "text": "how to renew my policy ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa700820-1f46-4074-babd-4a23c9682d0c",
+    "data": [
+      {
+        "text": "Insurance renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7a63ba47-7e76-4939-b5b4-374a10547e0d",
+    "data": [
+      {
+        "text": "forgot my user credentials",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bd41097-06bf-49ed-86f9-af756357b992",
+    "data": [
+      {
+        "text": "how to view my user credentials ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "ccbfb07b-eaeb-4479-9fcc-4deee3a95b95",
+  "parentId": "974fd002-9025-486d-801f-d3a0ce284637",
+  "rootParentId": "974fd002-9025-486d-801f-d3a0ce284637",
+  "name": "benefits of vehicle insurance",
+  "auto": true,
+  "contexts": [
+    "benefits-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "benefits.benefits-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Tax benefits"
+            },
+            {
+              "title": "Vehicle renewal benefits"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay.This includes tax benefits and  renewal benefits.Click the option below to know more."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

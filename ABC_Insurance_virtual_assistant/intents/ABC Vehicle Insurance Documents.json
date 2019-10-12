@@ -1,0 +1,31 @@
+{
+  "id": "a6eb39ae-2276-46c8-ba35-cf16a49761c7",
+  "name": "ABC Vehicle Insurance Documents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Documents required are:\n1) Driving License copy.\n2) Original FIR copy\n3) RC copy of the vehicle with all original keys."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

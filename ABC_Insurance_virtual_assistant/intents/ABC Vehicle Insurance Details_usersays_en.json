@@ -1,0 +1,38 @@
+[
+  {
+    "id": "661b39c1-9ab8-4b73-860c-5d371b3f374d",
+    "data": [
+      {
+        "text": " ABC Vehicle Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "354401ab-d024-48f5-bce2-cb8ea5c65723",
+    "data": [
+      {
+        "text": "What is ABC Vehicle Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9459be65-f39e-4bde-b9fe-a5b18041e89c",
+    "data": [
+      {
+        "text": "Details about ABC Vehicle Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

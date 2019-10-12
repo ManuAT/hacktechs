@@ -1,0 +1,52 @@
+{
+  "id": "a2c95724-8949-43ca-953c-e7ce8294b38e",
+  "name": "personal and policies renewal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "image": {
+            "url": "https://vignette.wikia.nocookie.net/logopedia/images/9/9e/ABC_Logo_%282007%29.png/revision/latest?cb\u003d20190328200910",
+            "accessibilityText": "login"
+          },
+          "buttons": [
+            {
+              "title": "Sign up or Login",
+              "openUrlAction": {
+                "url": "https://www.youtube.com",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Getting user details ..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

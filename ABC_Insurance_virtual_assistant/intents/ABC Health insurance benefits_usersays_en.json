@@ -1,0 +1,94 @@
+[
+  {
+    "id": "f11f7fce-b8b9-465e-9996-5d71224f2971",
+    "data": [
+      {
+        "text": "I want to know about the benefits of Health insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d941aac-4e60-4426-9774-ac714f7d4d70",
+    "data": [
+      {
+        "text": "I want to know about the benefits of ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "Health insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3973c987-d1e6-4d71-a445-255fbcd6fc9a",
+    "data": [
+      {
+        "text": "benefits of claiming ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "Health Insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "613c949f-33a6-41bf-9b5b-2989b309a717",
+    "data": [
+      {
+        "text": "Benefits of ",
+        "userDefined": false
+      },
+      {
+        "text": "Health insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d59fb01b-95e9-422e-9f2a-c371e8797035",
+    "data": [
+      {
+        "text": "Benefits of ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "Health insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e812ed12-8ae5-4e01-a317-7c9c8de50c91",
+    "data": [
+      {
+        "text": "What are the benefits of claiming ABC Health Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

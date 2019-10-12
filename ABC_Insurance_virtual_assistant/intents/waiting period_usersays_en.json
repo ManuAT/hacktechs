@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4aec5e81-9bf9-4c32-a6af-c9b88a74a044",
+    "data": [
+      {
+        "text": " what is the waiting period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "173bfccf-b89b-411a-8b2d-5ce7ad41d40f",
+    "data": [
+      {
+        "text": "waiting period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

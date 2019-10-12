@@ -1,0 +1,35 @@
+{
+  "id": "5d18cebc-cedd-4be5-bed3-d8a2707a8cb5",
+  "parentId": "bb221b7a-6fdf-4f03-95b9-b6a78f5b3500",
+  "rootParentId": "bb221b7a-6fdf-4f03-95b9-b6a78f5b3500",
+  "name": "ABC Health Insurance",
+  "auto": true,
+  "contexts": [
+    "documents-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Documents required are :\n1) Medical bills\n2) Policy copy. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

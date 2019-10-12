@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6e636ed4-866b-4f1a-b8bd-8707648b087c",
+    "data": [
+      {
+        "text": "What is the insurance coverage for ABC Vehicle Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b189625-910d-4786-b728-3a3b7b0e5c5f",
+    "data": [
+      {
+        "text": "What is the insurance coverage for ABC Health Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08eeb45c-b931-4470-9f2b-0c2b524bcabb",
+    "data": [
+      {
+        "text": "What is the insurance coverage for Lasik surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d11d105-bcb1-444b-bcea-255c9c39535e",
+    "data": [
+      {
+        "text": "What is the insurance coverage for skin treatment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

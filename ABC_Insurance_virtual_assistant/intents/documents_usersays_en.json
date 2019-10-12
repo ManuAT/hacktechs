@@ -1,0 +1,83 @@
+[
+  {
+    "id": "f7359e86-19bd-479a-ba04-ac477f83b31d",
+    "data": [
+      {
+        "text": " Documents required for claiming insurance amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae897561-c43f-419b-b589-57b0a5d76183",
+    "data": [
+      {
+        "text": "what are the Documents required for claiming insurance amount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f74baba2-eca2-4153-82ad-cdcb5bf58f97",
+    "data": [
+      {
+        "text": "documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f55e9e97-6a56-4d43-8d94-10569ddc79d6",
+    "data": [
+      {
+        "text": "Documents required for claiming insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31b70e10-48a5-4df7-a796-702be51d7293",
+    "data": [
+      {
+        "text": "what are the documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "341c8e49-b1f4-43ed-971e-aabb7a4b5b76",
+    "data": [
+      {
+        "text": "what are the Documents required for claiming ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "3c1168f9-f5b6-49de-8c0a-4c28fd65da4e",
+    "data": [
+      {
+        "text": "benefits of vehicle insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "222cebd9-4ec3-4ead-8d08-53e89b060a28",
+    "data": [
+      {
+        "text": "benefits of ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "vehicle insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c7e34be-eb2e-46db-8654-fe02ebe04c25",
+    "data": [
+      {
+        "text": "What are the benefits of claiming ABC Vehicle Insurance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

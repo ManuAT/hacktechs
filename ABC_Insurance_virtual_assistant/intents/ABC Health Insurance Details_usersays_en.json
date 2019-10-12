@@ -1,0 +1,48 @@
+[
+  {
+    "id": "cf10f855-b5f3-42dd-afcd-00d74332d6a8",
+    "data": [
+      {
+        "text": "ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "health insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52b2cdb4-6542-4041-a14b-cd29144ae540",
+    "data": [
+      {
+        "text": "What is ABC ",
+        "userDefined": false
+      },
+      {
+        "text": "health insurance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5f84b16d-e828-4e7d-9d66-4b8994c5f66a",
+    "data": [
+      {
+        "text": " Details about ABC Health Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
